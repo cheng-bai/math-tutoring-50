@@ -1,0 +1,872 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "0277cb221ad5f73ec3a7e326c9fa1960d9715462d2191ee765b406172a3b9ba7",
+    "bytes": 35
+  },
+  {
+    "path": ".nojekyll",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0
+  },
+  {
+    "path": "LICENSE",
+    "sha256": "0aeb5afdf19af9cc778a53e393ce0f79e0028b9fb0e15d94820e0a8b12163d22",
+    "bytes": 1211
+  },
+  {
+    "path": "README.md",
+    "sha256": "93059cbc1a9b05d87335e40f8e38c885955bafb16c15d783d2e48ea754c56408",
+    "bytes": 1336
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "sha256": "402067cbf701f3afe4ef5ab8c754f31a831ada3662581915abb72a048c83dbb3",
+    "bytes": 847
+  },
+  {
+    "path": "data/curriculum.tsv",
+    "sha256": "515f7f3abf3340904f919b3a8cbfd787915676cda2fb6529b1cf100b821dd4c0",
+    "bytes": 7934
+  },
+  {
+    "path": "docs/curriculum.md",
+    "sha256": "591a5a326fdc1ee28b47fd64ab601d6e073e5283c571df3c8c3d3196b3d13635",
+    "bytes": 11970
+  },
+  {
+    "path": "docs/methodology.md",
+    "sha256": "9f38d8051ad465473bc910578f958aafacef1934e386d9402da19d462f95cc2e",
+    "bytes": 2723
+  },
+  {
+    "path": "docs/parent-plan.md",
+    "sha256": "0790dc8d490bb30782b38e219c5f1b3bd69af97da4a831a782883454071aee64",
+    "bytes": 5862
+  },
+  {
+    "path": "index.html",
+    "sha256": "025683155b320f9533f8e23a9573421fb7b3b8d129a541794cf764a2e22cba0e",
+    "bytes": 35038
+  },
+  {
+    "path": "materials/README.md",
+    "sha256": "3a12db3f08df51d1234c0f23618d6195058999ac9572bb20f85acf29081a3bd3",
+    "bytes": 1113
+  },
+  {
+    "path": "materials/exams/2024/images/q11_fig1.png",
+    "sha256": "c0b6b1258a69bba06a3e707989ccadee6f56644479fd7ec8f69f38c04377b747",
+    "bytes": 9454
+  },
+  {
+    "path": "materials/exams/2024/images/q18_fig1.png",
+    "sha256": "62e0267832704aa920838c96ea4f77dde1fdf04793bb34d887d5461e9cd3ad9c",
+    "bytes": 41043
+  },
+  {
+    "path": "materials/exams/2024/source.md",
+    "sha256": "f096139f45da37c7d35c3f2ba392df665cb45e3b113d64f16c7cc046478f713b",
+    "bytes": 13387
+  },
+  {
+    "path": "materials/exams/2025/images/q11_fig1.png",
+    "sha256": "7520c8a7229e7327ee74be5f1d267ce16605ba2f914258795372323b4a042062",
+    "bytes": 18483
+  },
+  {
+    "path": "materials/exams/2025/images/q13_fig1.png",
+    "sha256": "29910ac935e6ef47e0748b24d141ab45b08edbe717cc584320762b524fde95fe",
+    "bytes": 26133
+  },
+  {
+    "path": "materials/exams/2025/images/q17_fig1.png",
+    "sha256": "4d6fb74ee967ef63818e07be5c81407256266a13ec45f6ea1840601a1f2259f4",
+    "bytes": 29830
+  },
+  {
+    "path": "materials/exams/2025/images/q20_fig1.png",
+    "sha256": "86cb493973c797656a214d540e3faaaf23793589a9e419039dac42e2984091b6",
+    "bytes": 12611
+  },
+  {
+    "path": "materials/exams/2025/source.md",
+    "sha256": "adcfd87e0b4474271427629766fc9a3e10b052bbacc3a21c7a342501682b5f13",
+    "bytes": 14820
+  },
+  {
+    "path": "materials/exams/2026/images/q10_fig1.png",
+    "sha256": "1ddc2273e9cf21cb8621a1e3b807dc9acec810e0f6bc92d3fd8e9e0d59de1b15",
+    "bytes": 7971
+  },
+  {
+    "path": "materials/exams/2026/images/q12_fig1.png",
+    "sha256": "911d90e353eedb9d5a556caa37fe0d70066f0f94bc20e7e084ca13b7cd2c4034",
+    "bytes": 32027
+  },
+  {
+    "path": "materials/exams/2026/images/q12_solution_fig1.png",
+    "sha256": "ff84dd06b4a16a51f4ae6bf5cebe82a8a62f10be58418a1c487e43e223cf94ec",
+    "bytes": 15409
+  },
+  {
+    "path": "materials/exams/2026/images/q15_choice_a.png",
+    "sha256": "117763de451986bb72bc0d2bc11fba457d9dc548dac124f9276b3788138a96f2",
+    "bytes": 5500
+  },
+  {
+    "path": "materials/exams/2026/images/q15_choice_b.png",
+    "sha256": "ee74c68c138d9c5bc9a578d83dba10a10a92249f5e2aa987f05c66ab2f1a54af",
+    "bytes": 5530
+  },
+  {
+    "path": "materials/exams/2026/images/q15_choice_c.png",
+    "sha256": "f01ee3736f3292455c173f05cd4f349c28ec6010b8f34cc4f9a896f44e286a0b",
+    "bytes": 5523
+  },
+  {
+    "path": "materials/exams/2026/images/q15_choice_d.png",
+    "sha256": "111c2b61c1620aba9a723dda48942de7d096af30e69d4bb2849666b0dce1c522",
+    "bytes": 5543
+  },
+  {
+    "path": "materials/exams/2026/images/q18_fig1.png",
+    "sha256": "f96d36beb74a3005f398538bd8eedf91cf1905011cecb5f25b3905bcb1849fb5",
+    "bytes": 11935
+  },
+  {
+    "path": "materials/exams/2026/images/q18_solution_fig1.png",
+    "sha256": "e6389369e97d3714767547ff9764322f8a70a1b1a3170450ee9500c1838da9a0",
+    "bytes": 19926
+  },
+  {
+    "path": "materials/exams/2026/images/q20_solution_fig1.png",
+    "sha256": "ce8d28f8e29fcb1d28ee4e99a48f722e1062c0314f16a821694adb0522e87f5d",
+    "bytes": 17943
+  },
+  {
+    "path": "materials/exams/2026/source.md",
+    "sha256": "9ca76493343641b80cfb0416df2e54a026fef57a7d16c565749779ee3b217264",
+    "bytes": 16953
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_10_1180_899_236_256_0.jpg",
+    "sha256": "bd3dd77b24f453c6e76f97325dc49204c01d01a24549c6e115db874915af0509",
+    "bytes": 5856
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_10_1182_1303_239_407_0.jpg",
+    "sha256": "e09cd335187449b2d22cc13dd0ed6f07e0b71cddcc4fd20d68c00f51a5233aca",
+    "bytes": 9256
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_11_136_600_363_308_0.jpg",
+    "sha256": "af007b270205381788c89bed8bd9f3a230281ac3e5859044c32676bd94035174",
+    "bytes": 14279
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_11_229_231_234_255_0.jpg",
+    "sha256": "b52f72a9f16fc4422bbc6a9aa9ee023790fbcc60a0172e5979c82aff29d5cd76",
+    "bytes": 6575
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_12_1127_223_399_278_0.jpg",
+    "sha256": "f0e87af96787158cf694851398c1f1c3d2e8014648541b4044b3dd29db5b39df",
+    "bytes": 16844
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_12_1142_624_318_243_0.jpg",
+    "sha256": "730895a5c3f0f7b82e788b7265d9dbbe24e26f67bc5af9fe33f644766134c63b",
+    "bytes": 10692
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_14_1141_1262_316_230_0.jpg",
+    "sha256": "5d2a17213c5a210eb53d05e60558969a15f6abe211995acec4b443f491ca2255",
+    "bytes": 7732
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_21_216_1019_262_255_0.jpg",
+    "sha256": "e29bb1431e5b8bf69655479f412eea11341b64f6fd79d8e00901d756682d7034",
+    "bytes": 7988
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_23_251_1624_193_214_0.jpg",
+    "sha256": "72a1fb5cb385d548df237356f0dbfb449f6ec054010f3ed1d0b17b7a75683c38",
+    "bytes": 9235
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_25_221_1468_255_315_0.jpg",
+    "sha256": "b5172134040683ec25c0d586bde5365f4c5bcac03e7c0d6bf21d3b0e590a0282",
+    "bytes": 9904
+  },
+  {
+    "path": "materials/textbook/complex/images/bo_d4sll53ef24c73be0n1g_25_579_402_887_307_0.jpg",
+    "sha256": "2f04e45015db749a9c40a231af8350bdb3c586e0b24c566f8f68bcf9d5623c47",
+    "bytes": 19520
+  },
+  {
+    "path": "materials/textbook/complex/source.md",
+    "sha256": "1d09a92867974672a5d6a0e2af27d0c8e1440f6153fdb8cf307b6be405fdb726",
+    "bytes": 83554
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_0_0_4_1654_1172_0.jpg",
+    "sha256": "5eb36df169700406ccc65c43566ec0b0af9d1a448fe757d0fc57d9336415e0df",
+    "bytes": 234699
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_1_197_867_325_188_0.jpg",
+    "sha256": "e201580de1b1bd905641bdbebad0008bed710bb78bcf9ad4882510a4411c285f",
+    "bytes": 8692
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_20_172_430_925_249_0.jpg",
+    "sha256": "c063feeacc43a687590a4d2676f9820147b95d7363d3a830808c507496d7d60b",
+    "bytes": 19976
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_21_629_257_776_309_0.jpg",
+    "sha256": "a9d732fe6ec21726825612802332ee08c1ab915150e5ebcb8caf2557db978d53",
+    "bytes": 14921
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_23_232_1114_256_419_0.jpg",
+    "sha256": "ba1cd093d76ced4ac46a990a59165bead7f8a2465ec4d1fb901b938b49630c54",
+    "bytes": 9590
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_26_303_1540_657_276_0.jpg",
+    "sha256": "bbd041422db3e9e874ca0fd3cd2b9f85a87e96a6340b5445efafffb4fcb14507",
+    "bytes": 11437
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_27_235_1821_252_253_0.jpg",
+    "sha256": "ddc0b58adc65a049d143d27cf5dfebdf2fecce49ec9832e2283401874b856a1a",
+    "bytes": 7373
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_28_1236_1793_220_248_0.jpg",
+    "sha256": "0a669246dd5d7be4efa364cb6a830f54947d9781c8bf2e22019dab8dfdee019c",
+    "bytes": 6827
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_29_1238_1869_246_157_0.jpg",
+    "sha256": "364cabdc06a1c1c910f1071c12bbe94533e1ce93eea617116e785926950b945e",
+    "bytes": 4781
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_29_556_893_564_228_0.jpg",
+    "sha256": "2ceae024544a9f729b347ea60e4f2916d0a38b4f54d851ae9248bb3fd65508e1",
+    "bytes": 10461
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_33_1151_617_330_206_0.jpg",
+    "sha256": "1221ae6ae0f97ffed7bee1de474ac1fe2cb22ec5d2ae1965ff7c376e375e7d53",
+    "bytes": 6988
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_34_1135_460_318_188_0.jpg",
+    "sha256": "11f05cd861add8dbbb7ec113752b5f9e3612cd93afd2d9a9b5b3a3e5aa21bbf7",
+    "bytes": 5481
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_5_192_1195_285_190_0.jpg",
+    "sha256": "3a32fecae05c35515254ed23e14ca2aec39054bf4785cf48f77e6c83d7d960d8",
+    "bytes": 5390
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_5_580_662_874_298_0.jpg",
+    "sha256": "fadc1c0f1398226900dd7cfffbec27a051f83efa51d65d749380e782528ca853",
+    "bytes": 20611
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_6_1110_1835_357_208_0.jpg",
+    "sha256": "32c03fde5b2e19832cb6c5be0877abb5c2e0e3df704995dae5af372424507377",
+    "bytes": 9812
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_9_1125_311_357_242_0.jpg",
+    "sha256": "9dbb9f6f6b051cd7ffcfeae1c2244872bd8a9f4b710c27c37127dc574cac6d51",
+    "bytes": 8943
+  },
+  {
+    "path": "materials/textbook/derivative/images/bo_d4slovref24c73be0r3g_9_626_1380_422_239_0.jpg",
+    "sha256": "296dd9a5b3ed4711d03b13782ca8cddbe9d32e782a35a4705cdcc945325124b7",
+    "bytes": 8456
+  },
+  {
+    "path": "materials/textbook/derivative/source.md",
+    "sha256": "bfc657df6ab52a9de18667d87896c927efe5c1244fbe83e92ad9e9b596cd2c6d",
+    "bytes": 84234
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_10_1132_1135_341_153_0.jpg",
+    "sha256": "26a5b83fcaf92fdbeadd5e51a6df4e67e40d6870b4dfe71ee03d9d3888b768fd",
+    "bytes": 4790
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_10_217_1636_813_354_0.jpg",
+    "sha256": "8ff0e96090eba8480356c918916186bdcbbd55e08c1ac4a092185983308475ec",
+    "bytes": 15342
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_11_183_459_322_305_0.jpg",
+    "sha256": "8699ba6ceebbf9d505ca03571f3a6d68eab318282c263c0b67f2aff9b4adf341",
+    "bytes": 8787
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_12_417_1883_780_270_0.jpg",
+    "sha256": "e02a8497cb1284d2d367e64c7fd9fd3b3327a82c2d0804c513ff72089d6e0711",
+    "bytes": 11395
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_14_1158_1771_281_264_0.jpg",
+    "sha256": "31b020d96e84453c2ea375650fec437ea52a214d8d17f17342238b7fe5f91ecc",
+    "bytes": 6173
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_18_347_967_923_378_0.jpg",
+    "sha256": "8937d2d07006c5e123d59729dceca1ddcb7f5bedb495c626003028a054b7ee4c",
+    "bytes": 22811
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_20_300_488_647_278_0.jpg",
+    "sha256": "8ec85121bedaa2464cea05206a414572aef726317a17b4004c72cc0d124979b1",
+    "bytes": 11895
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_22_1132_744_343_291_0.jpg",
+    "sha256": "4f9ddc41313dcad24ad7eaca7bdda543387c2246ab36460f1a334cb3f77db6df",
+    "bytes": 8741
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_22_1154_1149_292_281_0.jpg",
+    "sha256": "3bae9a3cfd73eb1433fd6eb3563979d57a991229bd842146062242b34750af74",
+    "bytes": 6808
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_22_1154_1814_292_281_0.jpg",
+    "sha256": "40429426aea7ac8070059c1587997a5d254f07d9f72e8f99b849223d080beb5a",
+    "bytes": 7953
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_22_1155_1484_291_281_0.jpg",
+    "sha256": "61fe94468aca76cfada88cd95c2cacc672243cdaa3acff3967de0ca79024c70f",
+    "bytes": 7426
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_23_179_1241_334_251_0.jpg",
+    "sha256": "80d472da7c18d24cc349227934714655ca842411162eb7fe3d1f53a6ed3efae3",
+    "bytes": 12197
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_23_197_647_302_117_0.jpg",
+    "sha256": "caf3e32216a6f2fe80178719062e8f5dd647c3413620519a4850555ec3d2655d",
+    "bytes": 3817
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_23_735_1752_573_270_0.jpg",
+    "sha256": "9d1264a269fe87b338a1dd9a1d09465806b3e84c58adaac89a0f07b63d5fc233",
+    "bytes": 11280
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_24_651_854_313_269_0.jpg",
+    "sha256": "ce69a782982141b8c1fabbbd83c993fbb3a54d18c1180216252d505ede596f89",
+    "bytes": 7858
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_25_191_1588_310_273_0.jpg",
+    "sha256": "254c67557d5fe4e611245624235d8f26c5650a534e4c9c95aa6e947560f776af",
+    "bytes": 7780
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_27_628_1093_787_385_0.jpg",
+    "sha256": "eab1e2c46fefa09b25182e7a37c55c7fd4385f93b7eb7ee0eb74df16ac4c2555",
+    "bytes": 20467
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_27_802_1869_440_247_0.jpg",
+    "sha256": "b894260df649f150033a6164a6bc5c271c728a0e3de1bbd9868b5f1d09bf202e",
+    "bytes": 9594
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_31_687_1116_672_368_0.jpg",
+    "sha256": "42f9d5208215da6aca0b775fa381e78d163fc8153cfe066e590a94f995ba866a",
+    "bytes": 17085
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_35_173_294_348_347_0.jpg",
+    "sha256": "e00db018926e4d493d49474e4da85af475ce47d6426ec92e84d12985bd90145c",
+    "bytes": 9759
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_35_310_940_1059_284_0.jpg",
+    "sha256": "91c86d017bf3a071e45d7c6ecf61fe39a4f80247d62e9b9a1a58c1d87ed532c2",
+    "bytes": 18907
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_5_687_1450_672_652_0.jpg",
+    "sha256": "a7b17dbc1d87a6fa3502af919f9d03cef13caa2372264e2c17d098d06fd8e99c",
+    "bytes": 27011
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_5_746_937_554_306_0.jpg",
+    "sha256": "8a295ca26900dc969254fe02b6212b8564451a45062e14207806417199a30a8d",
+    "bytes": 10580
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_6_308_1062_628_408_0.jpg",
+    "sha256": "776528f866833ccfee0fff41d9a17ecfbd1788e70f389d79146a5190af851040",
+    "bytes": 30797
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_6_485_494_278_253_0.jpg",
+    "sha256": "b9db681aea828b07d23bcbe3a66039ca8e4316b69bc4c2822ea78b9d8b8a59fb",
+    "bytes": 9152
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_7_647_1769_381_346_0.jpg",
+    "sha256": "691d17f1a6c61e1aec32b648c4d16659304301313e6344fa22225dd8a41326fd",
+    "bytes": 14524
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_7_844_683_355_343_0.jpg",
+    "sha256": "d26dc4e3bc2f9d282e48880ad981e48622d79c9e72e799724b33c89c69a09609",
+    "bytes": 10480
+  },
+  {
+    "path": "materials/textbook/function/images/bo_d4slo4v7aajc73fspkhg_8_269_967_1077_331_0.jpg",
+    "sha256": "502c4b5e07525682e0405b943b087df2b0890ed0de14c43230063a2b56dd910e",
+    "bytes": 26459
+  },
+  {
+    "path": "materials/textbook/function/source.md",
+    "sha256": "9ac811f449eb7b4d06e6aa1e0913d7a70c4cf4964c9ec0e18d5ab5f371c91461",
+    "bytes": 75134
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_0_0_1_1654_1178_0.jpg",
+    "sha256": "992f1c03935c75620c4f7b0c8d9cc03f7ab380a6e66c88d0eca648655314749a",
+    "bytes": 308932
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_13_208_1408_276_275_0.jpg",
+    "sha256": "6305ac57cf100dfc19f8babcac38e173376ac5fbf895d28255efe2f1e8d10b05",
+    "bytes": 9874
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_13_209_233_275_273_0.jpg",
+    "sha256": "1bbad214a00d82241884624118a0f2bbd342343c8c997e7012252d77419e0a6f",
+    "bytes": 9982
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_13_209_795_275_271_0.jpg",
+    "sha256": "2a4820677e789ec2c7045c8b69b43886d7ff819bbba74027ec7c8d44cf4c9b9b",
+    "bytes": 9566
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_15_200_715_292_277_0.jpg",
+    "sha256": "4391fae268efdb2fa1935edff57fd4db6b29987a5eba9bf4667b2e0d8faa9e9a",
+    "bytes": 10284
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_17_165_1086_362_278_0.jpg",
+    "sha256": "b6b7a81d8b71d9fb224b1db0a98f9ad56d4dbb737094299fb21116e53072340f",
+    "bytes": 10145
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_18_146_937_963_335_0.jpg",
+    "sha256": "c8f0cb71653a642e19b638a2650626a4407195e48b03043fbd9c5d26e9cb1ca5",
+    "bytes": 34648
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_1_207_701_283_202_0.jpg",
+    "sha256": "286c810cf9817d2f8bbe2191250c84e4fbf216d90c798382a96b570f5c4ee1e6",
+    "bytes": 5278
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_24_141_1378_473_273_0.jpg",
+    "sha256": "6d269bc1ddf7084c9b2b132f5e3c52648e52d88604599722bf5e1e4d2b120fe0",
+    "bytes": 12295
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_24_662_1377_447_276_0.jpg",
+    "sha256": "c20dfa86082a40921aa9b3f27eff7de3b0cb6cb69d35a8676ef285bad8d7e480",
+    "bytes": 11562
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_29_205_1113_280_197_0.jpg",
+    "sha256": "c5ef33d10a2c8300f22ef5f03fa18b7b546428fcb7a82adf26df0ef77f5768d3",
+    "bytes": 6443
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_2_1172_648_256_224_0.jpg",
+    "sha256": "a7120af7c6fcf12bd12d3e81171beb8c16e2386133720dca4a045cbf19d50883",
+    "bytes": 5770
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_2_234_1340_782_279_0.jpg",
+    "sha256": "ddafce420f70398c437b771e315f1f5f0275f286d8edfd1e270ddf238da30765",
+    "bytes": 15541
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_38_1144_227_329_286_0.jpg",
+    "sha256": "afc44a3a3693c3f0e5d9044e2df9e7877a9a3c4bf11604b8453c2332ce9431f3",
+    "bytes": 11373
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_39_186_1616_321_205_0.jpg",
+    "sha256": "3575ce4be7abcedc7e85d9f00d801f613dba641845a81b42918909afe183fe14",
+    "bytes": 7607
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_39_218_1030_262_211_0.jpg",
+    "sha256": "069f500d0ebce5823c189b532bc24d340e3fbf208d32fa1d85cf80f6030856e2",
+    "bytes": 7171
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_40_1154_1847_293_253_0.jpg",
+    "sha256": "d421ab27f47df0c4397145f63720f9139d8c00ad4bbd6d4e781d8829906ad197",
+    "bytes": 11239
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_46_1132_646_341_498_0.jpg",
+    "sha256": "73a98f1c34e27b6eb33b29792aadeb0550bbaa78a8bd890c6d407420f23b6efd",
+    "bytes": 35165
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_46_1141_1200_320_140_0.jpg",
+    "sha256": "8f877ebe08c64a990cb8185efdd35c44efdfc625eab88e02e3eb054f4c08f0c9",
+    "bytes": 4960
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_46_1148_1789_308_270_0.jpg",
+    "sha256": "fdfeb980069cfb0c96f08e04e70e2b69aa5226741b98763a16de66e4865de3b0",
+    "bytes": 7657
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_47_1170_1079_334_321_0.jpg",
+    "sha256": "e40e4dd4da3d0067ed3a17b9c7f83661d930309c319578900e275950942ddb41",
+    "bytes": 9641
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_48_422_737_778_354_0.jpg",
+    "sha256": "5e1ada40f0daba1ef3e8eca3f4dbb7b3b56224c64d4ad75692ace00712014988",
+    "bytes": 27943
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_49_1138_226_361_276_0.jpg",
+    "sha256": "39f0e7f626aed2f28d2f9b2d452b34112172fa39f4f668907db9f7dc7b850d0c",
+    "bytes": 14144
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_4_1159_226_283_258_0.jpg",
+    "sha256": "0cd51892f49987fe82607b72f009c93929377edb649a22c54166620539396eb7",
+    "bytes": 8527
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_50_148_1121_467_356_0.jpg",
+    "sha256": "1207fe997cf87646925551bd52489c06f548f9359611de410e86b101de0b3f61",
+    "bytes": 41610
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_54_1180_1325_293_298_0.jpg",
+    "sha256": "9b57d9b4f377afa19179a3a41a915ebc2ec1d620560648cb3a4f85a27745f278",
+    "bytes": 8348
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_5_205_523_286_255_0.jpg",
+    "sha256": "061d8aaedada78ceb7c2caf08292f2fc9c2d57b94bd30c2affd711b9c3acd480",
+    "bytes": 6554
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_6_1154_936_291_233_0.jpg",
+    "sha256": "1758fa3a2bd1af425eac5077a3bfaf3c35f6e73499845ff74c08ec9a405535c4",
+    "bytes": 6703
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_6_294_1672_661_461_0.jpg",
+    "sha256": "18c934abc0ac5ab9da7979877f64c858611f9ee5916b45e488028d12e1171160",
+    "bytes": 24787
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_8_391_300_467_536_0.jpg",
+    "sha256": "bd24505fcd4604bdc65478eb0da81e1832f7578597355840c11b44a972f8dd9e",
+    "bytes": 19585
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_9_177_231_341_292_0.jpg",
+    "sha256": "6b083f216e7cff52b5d60de547824e602a2fcbe1baf6c4c6197d2d787d0930a2",
+    "bytes": 10075
+  },
+  {
+    "path": "materials/textbook/trigonometry/images/bo_d52056jef24c73bg6dsg_9_209_582_275_273_0.jpg",
+    "sha256": "a5298e31d489224553ee2c4d2305374f396c2233bc217e71934e8f440798716f",
+    "bytes": 9135
+  },
+  {
+    "path": "materials/textbook/trigonometry/source.md",
+    "sha256": "1f2210ff0bce6971a02e05d7cd5742155939bb0793a58d28bc41aca0eccb25d4",
+    "bytes": 126014
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_10_275_588_372_246_0.jpg",
+    "sha256": "2ba367dbce45fe022790802dc959a3fcec88d5ccec83cbd5d10576929eb8f754",
+    "bytes": 9295
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_10_861_729_487_115_0.jpg",
+    "sha256": "a367bd9a33c20ab9bc4a276244475a8ea8cfac8117ac74c0300be2165650901c",
+    "bytes": 4767
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_11_604_1158_472_147_0.jpg",
+    "sha256": "638a7da40dc4399861e6f9048c1704b392db2aaf7678172be5b72d66304c6368",
+    "bytes": 4105
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_11_642_444_396_293_0.jpg",
+    "sha256": "17ff44ebae4932fe95319662dae01a0ee8a2450525fdde0fa780cb25199a325d",
+    "bytes": 23327
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_12_233_1813_779_146_0.jpg",
+    "sha256": "d1e2defaaf448c372c7bbd5dc899386866533c0759c821c8bd8be6472c94cfb1",
+    "bytes": 11523
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_12_233_830_780_146_0.jpg",
+    "sha256": "9463af36f532338c8cdb474eb51ebf312076ed75a1a5e6863df8ad8c9f57160f",
+    "bytes": 10364
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_13_210_219_271_258_0.jpg",
+    "sha256": "bf2cfee938c14a142be6398c7b69d3ef780aa8497bb1af4ba6167057275c6119",
+    "bytes": 5626
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_13_604_983_841_223_0.jpg",
+    "sha256": "43cf4d7eb7d7a9858e1df08aabc34e9c44f39e77375809cbf1ad19ea7b7d2f4b",
+    "bytes": 12236
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_14_1120_866_365_329_0.jpg",
+    "sha256": "ae4bd2eb59c209b8babf762f0af55ab570c3cf738c6af7b6e9376af911937233",
+    "bytes": 12676
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_15_206_539_284_281_0.jpg",
+    "sha256": "0c0552f98f764606afc17690e5e946582ea826286c9a7e041e059343a322df7e",
+    "bytes": 7156
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_19_200_1437_292_245_0.jpg",
+    "sha256": "ecd68301f66ff12bb6e15aeb6ade57c0fd74d8ea6cabcf67dec3565b299363dd",
+    "bytes": 7766
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_1_550_716_951_229_0.jpg",
+    "sha256": "4a5aa3b2eb280bea511522083a089379100e02450d02eb6418e3e1c8bcac3722",
+    "bytes": 23164
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_20_179_1169_890_332_0.jpg",
+    "sha256": "f6d6750695cdd02ff0834945fdbc78008ee85ff3321993f1e0e264460e2736a2",
+    "bytes": 18524
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_21_1208_1634_293_234_0.jpg",
+    "sha256": "789ff4a9d52d842ebe704881dea3e78a7420dcae8d0e88ab89c41e80f080a80d",
+    "bytes": 7189
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_21_188_562_318_180_0.jpg",
+    "sha256": "98e57aaf6b900474ff6e6f9e266e4e9d09725bb4d2ab0339927a377d16099d9f",
+    "bytes": 8059
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_22_1135_1213_335_160_0.jpg",
+    "sha256": "1a2546f7bb3b75a4973f04b192173586d97f5824808a499849f2d838401ac00e",
+    "bytes": 7062
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_22_1154_1799_295_301_0.jpg",
+    "sha256": "38d82149e934185d82d8fef53906ed1b61d4ce8b01c9ff3b5141f0ad0a2ff642",
+    "bytes": 10670
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_22_1179_335_292_298_0.jpg",
+    "sha256": "5fde97b30cbb5b5ffcff1fd2c9fe5a84aef07ae650a6a64a83f759adf62b4a28",
+    "bytes": 8228
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_27_1176_525_323_158_0.jpg",
+    "sha256": "9b801bf1fd92dc0084ca6b2f37beb6d965ecc329aa149f3d45499417d296e59e",
+    "bytes": 8792
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_28_1124_1554_357_236_0.jpg",
+    "sha256": "6c74e375db90cc01f3dc515dbc9d4391932839414b229cf1baed4716505bd4b1",
+    "bytes": 8220
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_29_160_1461_376_214_0.jpg",
+    "sha256": "b21294e3b3266d019b31c267f749d86001d03b114b529b886dd5cd157ad37fdc",
+    "bytes": 7164
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_29_188_535_318_164_0.jpg",
+    "sha256": "690e3b08339f981f4d17f5c7f6f4146e4d52e3602315ee3d27f52b6b8a7c6ecb",
+    "bytes": 7316
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_2_1128_819_347_166_0.jpg",
+    "sha256": "38432d345682cddc49529e4c06fcb320368797c5d0b2e4aa7c5e8e983bcf9523",
+    "bytes": 4288
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_2_1144_1107_317_287_0.jpg",
+    "sha256": "6dc493987a7216835fab1e71db6769b8493f42074807203fb06009b90f3acca0",
+    "bytes": 8481
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_2_430_227_390_257_0.jpg",
+    "sha256": "495f4b53e6806128c08ac0f212cfbbe08cdefc3f7202db7b1158047d3467a582",
+    "bytes": 13562
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_30_1161_1000_276_273_0.jpg",
+    "sha256": "85478d6898a19a2a333bcd42bd1f1ac2c096c7e6a153f2e4db39cd9e78d219c5",
+    "bytes": 7914
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_30_1194_586_279_271_0.jpg",
+    "sha256": "12f1335225b8ec55f5076c715f643518652d438b4ab37cfe7124467ea54d14f9",
+    "bytes": 6240
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_31_156_356_377_280_0.jpg",
+    "sha256": "e6872ee56eb3c507430b14aefa07068f1540e311f0c2e92768ab87b372da6f5e",
+    "bytes": 12322
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_31_667_1459_711_388_0.jpg",
+    "sha256": "9b4f6716143e506ef745887890d1d6ef6f916f31220f6180bffd1b2b85967bb7",
+    "bytes": 19721
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_32_1110_1897_360_177_0.jpg",
+    "sha256": "75205db06ce47a9f3535b4067eef4eeb9bbc59c64316caa5d294699bb0d131f3",
+    "bytes": 9550
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_33_1177_1168_312_508_0.jpg",
+    "sha256": "9cb1677e83566d0497f8b0fb893a4f640d46781f62ec1ca7918b4dbb8f7cf008",
+    "bytes": 16388
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_36_1156_1390_315_236_0.jpg",
+    "sha256": "c21dd4b7780f4cbe38026dca26ac49d1187bcd03cda91ff49dbac0a93878daa7",
+    "bytes": 11064
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_37_1165_637_337_265_0.jpg",
+    "sha256": "10bc540814e4c70adcd9089cac018dc115b038fa5f1834ee7860a2a6bb758511",
+    "bytes": 10760
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_37_435_1443_323_191_0.jpg",
+    "sha256": "4b71886ea6f344cf9d2df9a4a3154a03ef4606047c2aff42eda5b276502dca59",
+    "bytes": 6336
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_37_971_1291_278_347_0.jpg",
+    "sha256": "da729a90ab53b60b93cc39161ac835d2e63fdf9a4f58e5731048314922209854",
+    "bytes": 11029
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_38_410_543_315_294_0.jpg",
+    "sha256": "f25823b9577e8f7b1cc0125f235befe666f08bc394f15156b014f0826fac20bd",
+    "bytes": 10631
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_38_872_571_335_266_0.jpg",
+    "sha256": "51cab18c95209ce0572595a1dbe1f78d191e2ba4614a1347db87412450d8133e",
+    "bytes": 19446
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_3_1132_1951_301_137_0.jpg",
+    "sha256": "ec36e8899fef947d272d4e0b7028a235db1aed540609181e66809ae8f9b9932d",
+    "bytes": 5437
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_3_454_380_277_312_0.jpg",
+    "sha256": "0252fc2a2aff1aca38430927503668846619e2290b4ccf441778cf2efc24cb6f",
+    "bytes": 16787
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_3_614_1897_302_191_0.jpg",
+    "sha256": "2f18b495481eea483e1e6d23242fe89f990b6695d85c2b9dfbdd8c72aa180f97",
+    "bytes": 6798
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_3_718_1296_614_179_0.jpg",
+    "sha256": "b8d7b23beaee8e0bb1b7cd716274bcba756bd550018a0a4aa44bcc5038e339bb",
+    "bytes": 11547
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_3_948_435_277_257_0.jpg",
+    "sha256": "bf4517a3a01bff0f584390bc6cefcd5086e658c0f68409195393a9d349756c4c",
+    "bytes": 8141
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_4_213_1016_827_185_0.jpg",
+    "sha256": "44d84e067500646340ae5a466eeae1ca9a1191de98d391c655b1aa7650d312b0",
+    "bytes": 13951
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_5_210_1773_278_256_0.jpg",
+    "sha256": "8e6d6f6b1078c5ad55c610b6fd3d98541b0b1e981931cd62cc2925f20b948553",
+    "bytes": 7605
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_5_219_836_256_281_0.jpg",
+    "sha256": "0038ba7c994338c7e970540a7f05495270f74e4335ee9ebcc9d5d40f8a76fb97",
+    "bytes": 7515
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_6_1116_444_373_201_0.jpg",
+    "sha256": "e4c9725361877e5e6217ec42179052d2475f93f955cef58310026066224ee747",
+    "bytes": 9763
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_6_444_1577_360_264_0.jpg",
+    "sha256": "ab888b2e0808a06c7721eeeb37f6f4515fa51b0648808dc24b625886a4dd83db",
+    "bytes": 15714
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_8_1149_1852_301_214_0.jpg",
+    "sha256": "0fcda6e86c453e69212e6f41859834a76f18ffc52d6c532593014345ca7b88c8",
+    "bytes": 6116
+  },
+  {
+    "path": "materials/textbook/vector/images/bo_d4sllcbef24c73be0n80_9_1190_1082_312_270_0.jpg",
+    "sha256": "bc0d5a902a2d2a9816a8743e2794d3ff7f9e30bbef26963eb236ed2c7194371c",
+    "bytes": 7854
+  },
+  {
+    "path": "materials/textbook/vector/source.md",
+    "sha256": "df97e6756fb784de420af97b4ec31edaf75e3dbd25ff0b9437c38cc0bb60424c",
+    "bytes": 122753
+  },
+  {
+    "path": "materials/textbook-outline.md",
+    "sha256": "e0b965e6b428bf4d021677d2c483e4d32a0a4b05f874551ea9cfae0f36c2b048",
+    "bytes": 4721
+  },
+  {
+    "path": "scripts/validate.py",
+    "sha256": "922c3699dd9fa2319599f80cad9cbf56b1ab75452a21f429504fdc9ed21318f5",
+    "bytes": 925
+  }
+]
